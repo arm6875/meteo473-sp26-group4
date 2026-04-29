@@ -19,8 +19,8 @@ This project develops an interactive Thunderstorm Development Index using HRRR m
 2. Run script:
    python threat_index.py
 
+## License
+MIT
+
 ## Notes
 Images are generated and saved for use in the website viewer.
-
-##License
-MIT
