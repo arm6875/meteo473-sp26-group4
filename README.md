@@ -21,3 +21,6 @@ This project develops an interactive Thunderstorm Development Index using HRRR m
 
 ## Notes
 Images are generated and saved for use in the website viewer.
+
+##License
+MIT
